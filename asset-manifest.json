@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f2d9664c.css",
+    "main.js": "./static/js/main.ee12fad7.js",
+    "static/media/result.mp4": "./static/media/result.12b7e52191647e9890b8.mp4",
+    "static/media/multiple_agents.mp4": "./static/media/multiple_agents.8cf1d79b75564436364d.mp4",
+    "static/media/one_agent.mp4": "./static/media/one_agent.39be08e4fb74d20434ae.mp4",
+    "static/media/goal_moveaway.gif": "./static/media/goal_moveaway.7b2e104381746e452082.gif",
+    "static/media/smooth_orientation.gif": "./static/media/smooth_orientation.6f7771dab9795dc3a89c.gif",
+    "static/media/particle_system.gif": "./static/media/particle_system.e813a69cb3c1ea2e6f05.gif",
+    "static/media/narrow_path.gif": "./static/media/narrow_path.133a8a5d2a208da019ce.gif",
+    "static/media/camera_leftright.gif": "./static/media/camera_leftright.bc31d86dba06f2a47991.gif",
+    "static/media/overlapped_start.gif": "./static/media/overlapped_start.5ea3398997377fe77803.gif",
+    "static/media/camera_updown.gif": "./static/media/camera_updown.e00258c151eb588cf55a.gif",
+    "static/media/camera_ws.gif": "./static/media/camera_ws.e4054743d08708ba1529.gif",
+    "static/media/camera_ad.gif": "./static/media/camera_ad.de175d6e70b24d1138d7.gif",
+    "static/media/camera_qe.gif": "./static/media/camera_qe.44e36d73b6ea066cfe23.gif",
+    "static/media/ignore_stationary_object.gif": "./static/media/ignore_stationary_object.30bd9ad6736fe51562e1.gif",
+    "static/media/assign1.zip": "./static/media/assign1.fb073ead4b8ba375bb27.zip",
+    "index.html": "./index.html",
+    "main.f2d9664c.css.map": "./static/css/main.f2d9664c.css.map",
+    "main.ee12fad7.js.map": "./static/js/main.ee12fad7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d9664c.css",
+    "static/js/main.ee12fad7.js"
+  ]
+}
